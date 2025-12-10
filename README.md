@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuladeepgompa
 - 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...frontend
+- 🌱 I’m currently learning ...fullstack
 - 💞️ I’m looking to collaborate on ...internships
 - 📫 How to reach me ...linkedin
 - 😄 Pronouns: ..he/his
