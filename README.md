@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @kuladeepgompa
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...fullstack
-- 💞️ I’m looking to collaborate on ...internships
-- 📫 How to reach me ...linkedin
-- 😄 Pronouns: ..he/his
-- ⚡ Fun fact: ...
 
 <!---
 kuladeepgompa/kuladeepgompa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
